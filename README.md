@@ -12,7 +12,8 @@ As a bonus feature, tasks can also be assigned to projects. Users can select a p
 
 A video demonstration of the application is available here:
 
-**Video:** [Add your video link here]
+**Demo Video link (Opens in Google Drive):** 
+https://drive.google.com/file/d/1oaLdDt5lcYM8euFP-3YySpl_b3fbzZdR/view?usp=sharing
 
 The video demonstrates:
 
